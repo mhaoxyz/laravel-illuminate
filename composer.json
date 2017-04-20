@@ -1,0 +1,16 @@
+{
+    "name": "mhaoxyz/laravel-illuminate",
+    "type": "library",
+    "authors": [
+        {
+            "name": "menghao",
+            "email": "mhaoxyz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Illuminate\\": "Illuminate/"
+        }
+    },
+    "require": {}
+}
